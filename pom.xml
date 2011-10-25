@@ -8,6 +8,16 @@
     <packaging>jar</packaging>
 
     <name>redfaced</name>
+    <description>Deferred Faces Redirection; see http://java.net/jira/browse/JAVASERVERFACES_SPEC_PUBLIC-1040</description>
+
+    <developers>
+        <developer>
+            <id>mbenson</id>
+            <name>Matt Benson</name>
+            <email>gudnabrsam AT gmail DOT com</email>
+            <timezone>-5</timezone>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
